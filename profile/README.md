@@ -26,7 +26,7 @@ Für Anfragen wenden Sie sich bitte an die aktuellen Organisationsbesitzer (Stan
 Um eine **übersichtliche Struktur** zu gewährleisten, verwenden wir ein einheitliches Namensschema für alle Repositories:
 
 ```
-<Fach>-<Klasse>-<Jahr>-<Thema>-<Aufgabe>-<Name>
+<Fach>-<Klasse>-<Jahr>-<Aufgabe>-<Thema>-<Name>
 ```
 
 **Erläuterung der Bestandteile:**
@@ -35,10 +35,10 @@ Um eine **übersichtliche Struktur** zu gewährleisten, verwenden wir ein einhei
   → stammt aus dem **Klassennamen** in GitHub Classroom
 
 - `<Thema>`  
-  → stammt aus dem **Assignment** in GitHub Classroom
+  → stammt aus dem **Template Repository** auf GitHub
 
 - `<Aufgabe>`  
-  → stammt aus dem **Template Repository** auf GitHub
+  → stammt aus dem **Assignment** in GitHub Classroom
 
 - `<Name>`  
   → ist die **UserID** auf GitHub
@@ -51,23 +51,23 @@ So erkennen Sie auf einen Blick, **zu welchem Fach**, **zu welcher Klasse**, **z
 - **EFIN** – Ergänzungsfach Informatik  
 
 
-  Beispiel: `EFIN-5A-2024-oop-shop-meyer`  
+  Beispiel: `EFIN-5A-2024-shop-oop-meyer`  
   Ein Shop Repository des Schülers meyer im Jahr 2024 zum Thema *Objektorientierte Programmierung (OOP)* im Ergänzungsfach Informatik (5.Klasse).
 
 
 - **GFIN** – Grundlagenfach Informatik  
 
-  Beispiel: `GFIN-G21m-2025-sorting-bubblesort-meyer`  
+  Beispiel: `GFIN-G21m-2025-bubblesort-sorting-meyer`  
   Ein Bubblesort Repository von meyer im Jahr 2025 zum Thema *Sorting Algorithms* im Grundlagenfach Informatik der Klasse G21m.
 
 
 - **MA** – Maturaarbeit  
 
-  Beispiel: `MA-G20a-2025-ki-biasInLLMs-meyer`  
+  Beispiel: `MA-G20a-2025-biasInLLMs-ki-meyer`  
   Ein Repository (Bias in Large Language Models) von meyer im Jahr 2025 zum Thema *Künstliche Intelligenz (KI)* im Rahmen der Maturaarbeit.
   
 
-Aktuell identifizierte Themen:
+Aktuell identifizierte Themen (Template Repository Name):
 
 - `oop` – Objektorientierte Programmierung
 - `ki` – Künstliche Intelligenz / Machine Learning
