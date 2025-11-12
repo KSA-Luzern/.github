@@ -72,6 +72,7 @@ Aktuell identifizierte Themen (Template Repository Name):
 - `oop` – Objektorientierte Programmierung
 - `ki` – Künstliche Intelligenz / Machine Learning
 - `sorting` – Sortieralgorithmen und Datenstrukturen
+- `web` - HTML / CSS / JS
 - ...
 
 > 📌 **Hinweis:**  
