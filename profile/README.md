@@ -73,6 +73,7 @@ Aktuell identifizierte Themen (Template Repository Name):
 - `ki` – Künstliche Intelligenz / Machine Learning
 - `sorting` – Sortieralgorithmen und Datenstrukturen
 - `web` - HTML / CSS / JS
+- `ds` - Data Science
 - ...
 
 > 📌 **Hinweis:**  
