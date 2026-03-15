@@ -26,7 +26,7 @@ Für Anfragen wenden Sie sich bitte an die aktuellen Organisationsbesitzer (Stan
 Um eine **übersichtliche Struktur** zu gewährleisten, verwenden wir ein einheitliches Namensschema für alle Repositories:
 
 ```
-<Fach>-<Klasse>-<Jahr>-<Aufgabe>-<Thema>-<Name>
+<Fach>-<Jahr>-<Klasse>-<Aufgabe>-<Thema>-<Name>
 ```
 
 **Erläuterung der Bestandteile:**
