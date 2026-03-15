@@ -51,7 +51,7 @@ So erkennen Sie auf einen Blick, **zu welchem Fach**, **zu welcher Klasse**, **z
 - **EFIN** – Ergänzungsfach Informatik  
 
 
-  Beispiel: `EFIN-5A-2024-shop-oop-meyer`  
+  Beispiel: `EFIN-2024-5A-shop-oop-meyer`  
   Ein Shop Repository des Schülers meyer im Jahr 2024 zum Thema *Objektorientierte Programmierung (OOP)* im Ergänzungsfach Informatik (5.Klasse).
 
 
