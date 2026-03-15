@@ -31,7 +31,7 @@ Um eine **übersichtliche Struktur** zu gewährleisten, verwenden wir ein einhei
 
 **Erläuterung der Bestandteile:**
 
-- `<Fach>-<Klasse>-<Jahr>`  
+- `<Fach>-<Jahr>-<Klasse>`  
   → stammt aus dem **Klassennamen** in GitHub Classroom
 
 - `<Thema>`  
@@ -57,13 +57,13 @@ So erkennen Sie auf einen Blick, **zu welchem Fach**, **zu welcher Klasse**, **z
 
 - **GFIN** – Grundlagenfach Informatik  
 
-  Beispiel: `GFIN-G21m-2025-bubblesort-sorting-meyer`  
+  Beispiel: `GFIN-2025-G21m-bubblesort-sorting-meyer`  
   Ein Bubblesort Repository von meyer im Jahr 2025 zum Thema *Sorting Algorithms* im Grundlagenfach Informatik der Klasse G21m.
 
 
 - **MA** – Maturaarbeit  
 
-  Beispiel: `MA-G20a-2025-biasInLLMs-ki-meyer`  
+  Beispiel: `MA-2025-G20a-biasInLLMs-ki-meyer`  
   Ein Repository (Bias in Large Language Models) von meyer im Jahr 2025 zum Thema *Künstliche Intelligenz (KI)* im Rahmen der Maturaarbeit.
   
 
